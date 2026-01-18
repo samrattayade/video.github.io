@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Samrat Gallery | Click to Open</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+   <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+    <header>
+        <h1><i class="fas fa-play-circle"></i> Samrat Gallery</h1>
+        <p class="subtitle">Click any thumbnail to open the video in app or browser</p>
+    </header>
+    
+   
+    
+    <div class="videos-container" id="videosContainer">
+        <!-- Videos will be dynamically added here -->
+    </div>
+    
+    <!-- Modal for link selection -->
+    <div class="modal" id="linkModal">
+        <div class="modal-content">
+            <h3 id="modalTitle">Open Video</h3>
+            <p id="modalDescription">How would you like to open this video?</p>
+            <div class="button-group">
+                <button class="btn btn-app" id="openAppBtn">
+                    <i class="fas fa-mobile-alt"></i> Open in App
+                </button>
+                <button class="btn btn-web" id="openWebBtn">
+                    <i class="fas fa-globe"></i> Open in Browser
+                </button>
+                <button class="btn btn-cancel" id="cancelBtn">
+                    <i class="fas fa-times"></i> Cancel
+                </button>
+            </div>
+        </div>
+    </div>
+    
+    <footer>
+        <p>Samrat Gallery &copy; 2026 | Click thumbnails to open videos in app or web</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
