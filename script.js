@@ -5,7 +5,7 @@
                 title: "What Is Quantum Computing? Explained in Easy Language",
                 description: "Quantum computing is one of the most powerful and futuristic technologies in the world. 🚀",
                 thumbnail: "https://img.youtube.com/vi/AEuRlwWNCtI/maxresdefault.jpg",
-                appUrl: "youtube.com/watch?v=AEuRlwWNCtI",
+                appUrl: "https://www.youtube.com/watch?v=AEuRlwWNCtI",
                 webUrl: "https://www.youtube.com/watch?v=AEuRlwWNCtI",
                 duration: "12:45",
                 views: "1.2M views"
@@ -14,7 +14,7 @@
                 title: "Artificial Intelligence Explained in 2 Minutes | Easy Way",
                 description: "Artificial Intelligence, or AI, is changing the world around us. 🤖",
                 thumbnail: "https://img.youtube.com/vi/78tVDc9xCvs/maxresdefault.jpg",
-                appUrl: "youtube://watch?v=78tVDc9xCvs",
+                appUrl: "https://www.youtube.com/watch?v=78tVDc9xCvs",
                 webUrl: "https://www.youtube.com/watch?v=78tVDc9xCvs",
                 duration: "18:32",
                 views: "850K views"
@@ -23,7 +23,7 @@
                 title: "BlockchainBlockchain Explained Simply | Beginner Friendly",
                 description: "Blockchain is one of the most important technologies of the future 🚀",
                 thumbnail: "https://img.youtube.com/vi/g9fic49tYRw/maxresdefault.jpg",
-                appUrl: "youtube://watch?v=78tVDc9xCvs",
+                appUrl: "https://www.youtube.com/watch?v=78tVDc9xCvs",
                 webUrl: "https://www.youtube.com/watch?v=78tVDc9xCvs",
                 duration: "1:45:22",
                 views: "3.5M views"
@@ -32,7 +32,7 @@
                 title: "Building a Responsive Website",
                 description: "Step-by-step guide to creating a mobile-friendly responsive website from scratch.",
                 thumbnail: "https://img.youtube.com/vi/78tVDc9xCvs/maxresdefault.jpg",
-                appUrl: "youtube://watch?v=78tVDc9xCvs",
+                appUrl: "https://www.youtube.com/watch?v=78tVDc9xCvs",
                 webUrl: "https://www.youtube.com/watch?v=78tVDc9xCvs",
                 duration: "24:18",
                 views: "920K views"
@@ -41,7 +41,7 @@
                 title: "React JS Tutorial for Beginners",
                 description: "Learn React fundamentals, components, state, and hooks in this comprehensive guide.",
                 thumbnail: "https://img.youtube.com/vi/78tVDc9xCvs/maxresdefault.jpg",
-                appUrl: "youtube://watch?v=78tVDc9xCvs",
+                appUrl: "https://www.youtube.com/watch?v=78tVDc9xCvs",
                 webUrl: "https://www.youtube.com/watch?v=78tVDc9xCvs",
                 duration: "2:15:42",
                 views: "2.8M views"
@@ -50,7 +50,7 @@
                 title: "Node.js and Express.js Tutorial",
                 description: "Build a backend server with Node.js and Express.js for your web applications.",
                 thumbnail: "https://img.youtube.com/vi/78tVDc9xCvs/maxresdefault.jpg",
-                appUrl: "youtube://watch?v=78tVDc9xCvs",
+                appUrl: "https://www.youtube.com/watch?v=78tVDc9xCvs",
                 webUrl: "https://www.youtube.com/watch?v=78tVDc9xCvs",
                 duration: "32:10",
                 views: "1.1M views"
@@ -143,4 +143,5 @@
             console.log("To add more videos, edit the 'videos' array in the JavaScript section.");
             console.log("Each video needs: title, description, thumbnail, appUrl, webUrl");
         });
+
  
